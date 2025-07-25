@@ -1,0 +1,6 @@
+{
+  "name": "WalkyNine AI Chatbot",
+  "description": "An AI chatbot application, similar to ChatGPT, powered by the Gemini API. Engage in dynamic, real-time conversations with an advanced AI.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
